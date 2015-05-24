@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 
 1. Introduing a shiny app - Interactive app to provide a simple introduction to the concept of central limit theorem and the law of large numbers
 
-2. Inspired by Johns Hopkins Inference course on Coursera
+2. Inspired by Johns Hopkins - Inference course on Coursera
 
 3. Makes use of HTML page as primary interface with user - radio buttons, sliders
 
